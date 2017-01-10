@@ -48,7 +48,7 @@ Should output
 
 ### Bonus questions
 
-You do not have to code these. Just explain how you would solve them :)
+You do not have to code these, just explain how you would solve them :)
 
 - Can you modify your solution that it takes input from the command line instead?
 
