@@ -2,6 +2,8 @@
 
 Create a program that can calculate the Scrabble™ score of a word or sentence.
 
+### Description
+
 The program must be callable from the command line, and print out the result to the command line as well.
 
 ```bash
@@ -16,7 +18,7 @@ Should output
 
 In the table below, each letter (Bogstav) is listed with it's score (Score) and availability (Antal).
 
-If word/sentence given has too many occurrences of a letter, the program should give an error and exit.
+If the word/sentence given has too many occurrences of a letter, the program should give an error and exit.
 
 ```bash
 > php scrabble.php "XXX"
@@ -27,6 +29,8 @@ Should output
 ```bash
  Illegal word! Cannot use "X" more than 1 times. 
 ```
+
+### Letters & scores
 
 | Bogstav | Score | Antal | Bogstav | Score | Antal | Bogstav | Score | Antal |
 |:-------:|:-----:|:-----:|:-------:|:-----:|:-----:|:-------:|:-----:|:-----:|
